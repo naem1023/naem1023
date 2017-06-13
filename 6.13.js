@@ -12,6 +12,7 @@ function checkNickname(){
 	}
 
 	msgRef.on('child_added', function(snapshot){
+		//exec one by one
 		addMsg(snapshot.val().name, snapshot.val().msg, snapshot.val().date);
 	})
 }
@@ -33,12 +34,15 @@ $("#msgArea").on("keyup", function(){
 });
 
 function addMsg(nick, msg, date){
+	//get html DOM, to make msg DOM
 	let clone = $(".msg_tmp").clone();
 	clone.html(clone.html().replace("[[name]]", nick));
 	clone.html(clone.html().replace("[[msg]]", msg));
 	clone.html(clone.html().replace("[[date]]", date));
 	clone.removeClass("msg_tmp");
 	clone.addClass("msg");
+
+
 	if(nick == nickname){
 		clone.addClass("right");
 	}
@@ -46,6 +50,7 @@ function addMsg(nick, msg, date){
 		clone.addClass("left");
 	}
 
+	//add
 	$("#log").append(clone);
 	$("#log").scrollTop($("#log")[0].scrollHeight);
 }
@@ -61,6 +66,8 @@ function sendMsg(){
 			name : nickname
 		});
 
+
+		//init
 		$("#msgArea").val("");
 		$("#msgArea").focus();
 		checkSentBtn();
