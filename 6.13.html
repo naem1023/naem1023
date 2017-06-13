@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+
+	<link rel="stylesheet" type="text/css" href="6.13.css">
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+
+</head>
+<body>
+
+	<div id="log">
+		<div class="msg_tmp">
+			<p class="msg_name">[[name]]</p>
+			<p class="msg_msg">[[msg]]</p>
+			<p class="msg_date">[[date]]</p>
+		</div>
+	</div>
+	<div id="msgBar">
+		<textarea id="msgArea"></textarea><a onclick="sendMsg();">전송</a>
+	</div>
+
+
+
+<script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCFaNmKkYsUpzwXcCb0w2tSgoGXUugaKic",
+    authDomain: "wp-project-f8926.firebaseapp.com",
+    databaseURL: "https://wp-project-f8926.firebaseio.com",
+    projectId: "wp-project-f8926",
+    storageBucket: "wp-project-f8926.appspot.com",
+    messagingSenderId: "593674891494"
+  };
+  firebase.initializeApp(config);
+</script>
+<script type="text/javascript" src="6.13.js"></script>
+</body>
+</html>
