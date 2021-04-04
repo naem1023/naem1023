@@ -1,4 +1,4 @@
-## I'm Developer and Student!
+## I'm a Developer and Student!
 - Konkuk Univ Computer Science
 - Developer in [Baikal.ai](https://baikal.ai)
 
