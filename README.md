@@ -10,5 +10,7 @@
   - Classification of object and situation in 2D Image
   - Auto reporting system for learning result in gitlab issue
 - License issuer using Google Script and Dockerizing service
+  - Make HTTP/1.1 RESTful API using Envoy Prox via gRPC service
 - Hangul Regex
+  - <초성, 중성, 종성>
 - Leadership in team project
