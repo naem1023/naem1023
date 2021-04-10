@@ -7,10 +7,14 @@
 ## What I've done
 - Machine Laerning 
   - Classification of Alzheimer's disease via audio and transcription
-  - Classification of object and situation in 2D Image
-  - Auto reporting system for learning result in gitlab issue
+  - Classification of object and place in 2D Image
+  - Auto reporting system for deep learning result
 - License issuer using Google Script and Dockerizing service
-  - Make HTTP/1.1 RESTful API using Envoy Prox via gRPC service
+  - Make HTTP/1.1 RESTful API using Envoy Proxy corresponding with gRPC service
 - Hangul Regex
-  - <초성, 중성, 종성>
+  - Regex format : <초성, 중성, 종성>
 - Leadership in team project
+
+## Tech Spec
+- Python, React-Native(with swift), Vue.js, Shell Programming, C/C++, Java, 
+- Tensorflow, Pytorch, Praat, Docker
