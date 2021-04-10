@@ -18,3 +18,7 @@
 ## Tech Spec
 - Python, React-Native(with swift), Vue.js, Shell Programming, C/C++, Java, 
 - Tensorflow, Pytorch, Praat, Docker
+
+## Website
+- [Tistory](https://naem1023.tistory.com) (2011 ~ 2020)
+- [Blogspot](https://relilau.blogspot.com) (2011)
