@@ -1,6 +1,6 @@
 ## I'm a Developer and Student!
-- Konkuk Univ Computer Science
-- Developer in [Baikal.ai](https://baikal.ai)
+- Konkuk Univ Computer Science senior
+- Developer in [Baikal.ai](https://baikal.ai) (2020.09 ~ ongoing)
 
 ## Interset
 - Reinforcement Learning to make strategy in many game
