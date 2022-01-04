@@ -15,7 +15,7 @@
 
 |repository|description|
 |------|---|
-|[Interview Study](https://github.com/Boostcamp-JoHan4Park/Interview-Study)| Web Chat Game 
+|[Interview Study](https://github.com/Boostcamp-JoHan4Park/Interview-Study)| Domain: ML/DL, CS, Math
 
 ## Mobile Application
 |repository|description|
