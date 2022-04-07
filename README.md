@@ -1,6 +1,3 @@
-# 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naem1023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 - [My Repository Docs](REPO.md)
 - [Portfolio](https://github.com/naem1023/LaTex-Resume-and-CV/blob/main/_%EB%B0%95%EC%84%B1%ED%98%B8-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
