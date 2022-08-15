@@ -5,6 +5,7 @@
 ## Intersted in
 - Multi-modal Generation
   - CLIP guidance Diffusion model
+- Abstractive Summarization
 - Open-Domain Question Answering
 - MLOps
 - GPU Optimization
