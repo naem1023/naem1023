@@ -3,10 +3,10 @@
 
 
 ## Intersted in
-- Multi-modal Generation
-  - CLIP guidance Diffusion model
+- Model, Data Parallelism
 - Abstractive Summarization
 - Open-Domain Question Answering
+- Multi-modal Generation
 - MLOps
 - GPU Optimization
 
