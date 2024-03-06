@@ -3,8 +3,7 @@
 I like open-source contributing for growing up myself.
 
 ## Intersted in
+- LLM-based Autonomous Agent with Efficient and Human-aligned methods
+- Studying Software Engineering and Architecture for AI Service
 - Multi-modal Generation
-- Model, Data Parallelism
-- Abstractive Summarization
-- Open-Domain Question Answering
 - GPU Optimization
